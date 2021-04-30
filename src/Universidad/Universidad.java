@@ -1,8 +1,8 @@
 
-package proyecto;
+package Universidad;
 
 
-public class Proyecto {
+public class Universidad {
 
     public static void main(String[] args) {
       
